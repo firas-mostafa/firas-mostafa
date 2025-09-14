@@ -2,7 +2,7 @@
 
 I'm Firas, a passionate Flutter developer with a penchant for creating delightful mobile experiences.
 
-## 🎥 Project Demo
+## 🎥 Projects Demo
 
 Check out my work in this video: [Watch on Google Drive](https://drive.google.com/file/d/1S9309CNKXiZU8Ws_Qzmi_PEmVg96dmTP/view?usp=sharing)
 
