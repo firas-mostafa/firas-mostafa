@@ -2,6 +2,10 @@
 
 I'm Firas, a passionate Flutter developer with a penchant for creating delightful mobile experiences.
 
+## 🎥 Project Demo
+
+Check out my work in this video: [Watch on Google Drive](https://drive.google.com/file/d/1S9309CNKXiZU8Ws_Qzmi_PEmVg96dmTP/view?usp=sharing)
+
 ## 📖 What's on My Learning Radar:
 
 🌱 Currently, I'm diving into the fascinating world of machine learning. The idea of teaching computers to learn and adapt intrigues me, and I'm excited to explore this frontier.
@@ -22,9 +26,7 @@ Feel free to reach out if you want to discuss Flutter, share project ideas, or j
 ![](https://github-readme-stats.vercel.app/api?username=firas-mostafa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=firas-mostafa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=firas-mostafa&theme=tokyonight&hide_border=true)
-## 🎥 Project Demo
 
-Check out my work in this video: [Watch on Google Drive](https://drive.google.com/file/d/1S9309CNKXiZU8Ws_Qzmi_PEmVg96dmTP/view?usp=sharing)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=firas-mostafa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
