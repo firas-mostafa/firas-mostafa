@@ -1,5 +1,3 @@
-<img src="https://github.com/user-attachments/assets/0ee27d06-10c8-4ebd-ac58-db396772e1e8" alt="header" width="100%" />
-
 # Hi, I'm Firas Mostafa 👋 
 **Flutter Developer | Python & Django Backend | ML Student**
 
