@@ -1,42 +1,73 @@
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="35"> 
-  Hi there, I'm Firas Mostafa
-</h1> 
-**Flutter Developer | Python & Django Backend | ML Student**
+<div align="center">
+
+# FIRAS MOSTAFA
+
+### FULL-STACK & AI ENGINEER
+
+*I build intelligent, production-grade applications end-to-end — from Flutter mobile clients to scalable Django backends and AI/ML systems.*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-firas--mostafa.github.io%2Fportfolio-131313?style=flat-square&logo=githubpages&logoColor=white)](https://firas-mostafa.github.io/portfolio)
+[![Email](https://img.shields.io/badge/Email-firassmostafa15%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:firassmostafa15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Ffirasmostafa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/firasmostafa)
+[![Telegram](https://img.shields.io/badge/Telegram-%40firas__mostafa-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/firas_mostafa)
+[![CV](https://img.shields.io/badge/Download%20CV-PDF-4285F4?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://firas-mostafa.github.io/portfolio/cv.pdf)
+
+`Damascus, Syria` · `Open to Remote Full-Stack / Mobile / AI Roles`
+
+</div>
 
 ---
 
-### 📖 About Me
-I specialize in building high-performance, cross-platform mobile applications using **Flutter**. Beyond the frontend, I build scalable backends with **Django** and **FastAPI**, and I am currently exploring the intersection of mobile apps and **Machine Learning**.
+## ⚡ Featured Projects
 
-* 🚀 **Latest Demo:** [Watch my Project Showreel](https://drive.google.com/file/d/1S9309CNKXiZU8Ws_Qzmi_PEmVg96dmTP/view?usp=sharing)
-* 🧠 **Learning:** Advanced Neural Networks & Computer Vision
-* 📧 **Contact:** [firassmostafa15@gmail.com](mailto:firassmostafa15@gmail.com)
+### 01 — Ursa | Graduation Thesis
+**AI-Driven Health Companion & Smart Triage Platform** *(Jan 2026 – Sep 2026)*
+
+An intelligent healthcare ecosystem that analyzes symptoms, habit logs, and wearable vitals to deliver real-time medical triage and clinical documentation.
+
+- **Dual Machine Learning Models:** Engineered a **diagnosis ensemble** (246K+ records, 721 conditions, **98% Top-5 accuracy**) and a **triage model** (**94% critical-case recall**).
+- **Medical RAG Engine:** Built a secure RAG pipeline with strict safety guardrails and real-time streaming via WebSockets.
+- **Tech Stack:** `Flutter (BLoC)` · `Django (ASGI)` · `PyTorch` · `LangChain` · `RAG` · `PostgreSQL` · `Docker`
+- 🔗 **Demo:** [Live Portfolio](https://firas-mostafa.github.io/portfolio)
 
 ---
 
-### 💻 Tech Stack
+### 02 — TasteCraft AI
+**AI-Powered Culinary & Nutrition Platform** *(Sep 2025 – Jan 2026)*
 
-| Category | Tools & Technologies |
+Full-stack application offering smart recipe discovery, automated nutritional analysis, and voice-enabled culinary assistance with full RTL/LTR support.
+
+- Designed scalable Django REST APIs using TDD, JWT authentication, and Docker containerization.
+- Integrated interactive Flutter UI with real-time AI recipe generation.
+- **Tech Stack:** `Flutter` · `Django REST` · `PostgreSQL` · `Docker` · `LangChain` · `TDD`
+- 🔗 **Repository:** [github.com/firas-mostafa/tastecraft-ai](https://github.com/firas-mostafa/tastecraft-ai)
+
+---
+
+### 03 — AgriSphere `[Team Project]`
+**Smart Agriculture & Crop Disease Diagnostic System** *(Sep 2025 – Dec 2025)*
+
+Collaborative mobile platform empowering farmers with optimal planting schedules and automated crop disease detection to minimize yield loss.
+
+- Integrated machine learning diagnostic models with responsive Flutter mobile interfaces and backend services.
+- **Tech Stack:** `Flutter` · `Machine Learning` · `Laravel` · `MySQL` · `REST APIs`
+- 🔗 **Repository:** [github.com/firas-mostafa/agri_sphere](https://github.com/firas-mostafa/agri_sphere)
+
+---
+
+## 🛠️ Technical Ecosystem
+
+| Category | Technologies & Frameworks |
 | :--- | :--- |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) |
-| **Backend** | ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) |
-| **Machine Learning** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) |
-| **Others** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
+| **Mobile Development** | `Flutter`, `Dart`, `BLoC`, `GetX`, `Clean Architecture`, `REST APIs` |
+| **Backend & Infrastructure** | `Python`, `Django`, `FastAPI`, `WebSockets`, `Celery`, `Redis`, `PostgreSQL`, `Docker` |
+| **AI & Data Science** | `PyTorch`, `LangChain`, `RAG Pipelines`, `Vector DBs (pgvector)`, `Scikit-Learn` |
+| **Dev Tools & Workflow** | `Git`, `GitHub Actions`, `Postman`, `Linux (EndeavourOS)` |
 
 ---
 
-### 📈 GitHub Snapshot
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=firas-mostafa&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=02569B&text_color=777" alt="Firas's Stats" />
-</p>
+<div align="center">
 
----
+🌐 **Explore Interactive Demos & Case Studies at [firas-mostafa.github.io/portfolio](https://firas-mostafa.github.io/portfolio)**
 
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/firas-mostafa-32804a26a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="https://facebook.com/https://www.facebook.com/profile.php?id=61562748940961"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
-<a href="https://stackoverflow.com/users/24409368/firas-mostafa"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
-</p>
+</div>
