@@ -28,7 +28,7 @@ An intelligent healthcare ecosystem that analyzes symptoms, habit logs, and wear
 - **Dual Machine Learning Models:** Engineered a **diagnosis ensemble** (246K+ records, 721 conditions, **98% Top-5 accuracy**) and a **triage model** (**94% critical-case recall**).
 - **Medical RAG Engine:** Built a secure RAG pipeline with strict safety guardrails and real-time streaming via WebSockets.
 - **Tech Stack:** `Flutter (BLoC)` · `Django (ASGI)` · `PyTorch` · `LangChain` · `RAG` · `PostgreSQL` · `Docker`
-- 🔗 **Demo:** [Youtubevideo](https://www.youtube.com/shorts/WBz_ei6zKjU)
+- 🔗 **Demo:** [Youtube](https://www.youtube.com/shorts/WBz_ei6zKjU)
 
 ---
 
