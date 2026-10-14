@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-firassmostafa15%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:firassmostafa15@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Ffirasmostafa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/firasmostafa)
 [![Telegram](https://img.shields.io/badge/Telegram-%40firas__mostafa-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/firas_mostafa)
-[![CV](https://img.shields.io/badge/Download%20CV-PDF-4285F4?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://firas-mostafa.github.io/portfolio/cv.pdf)
+[![CV](https://img.shields.io/badge/Download%20CV-PDF-4285F4?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://firas-mostafa.github.io/portfolio/web/Firas_Mostafa_Full_Stack_AI_Engineer.pdf)
 
 `Damascus, Syria` · `Open to Remote Full-Stack / Mobile / AI Roles`
 
